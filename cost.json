@@ -1,0 +1,11 @@
+{
+  "tree": { "wood": 2 },
+  "rock": { "wood": 8 },
+  "magic": { "wood": 6 },
+  "plain": { "wood": 5 },
+  "beacon": { "wood": 100, "rock": 100, "mana": 100 },
+  "plain_wood": { "wood": 5 },
+  "plain_rock": { "wood": 5, "rock": 2 },
+  "plain_magic": { "wood": 5, "mana": 1 },
+  "plain_water": { "wood": 5 }
+}
